@@ -25,3 +25,6 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+
+# look into the snapshots folder on how to run the code

@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/778d3cb7a9c1485aa86267d9def7f58c/artifacts
+end_time: 1712663695828
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 778d3cb7a9c1485aa86267d9def7f58c
+run_uuid: 778d3cb7a9c1485aa86267d9def7f58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712663693669
+status: 3
+tags: []
+user_id: kalyan
